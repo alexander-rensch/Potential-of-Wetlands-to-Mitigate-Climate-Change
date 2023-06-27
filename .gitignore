@@ -1,0 +1,8 @@
+# Ignore the source data for corine land cover 2018
+/data/copernicus/u2018_clc2018_v2020_20u1_fgdb
+/data/faostat/FAOSTAT_drained_soils_emissions_eu27.csv
+data/hendricks2020-carbon-pools-and-sequestration/hendricks2020-carbon-pools-and-sequestration.pdf
+data/eurostat/NUTS_RG_01M_2021_4326_LEVL_3.json
+data/eea/ghg-emissions-by-sector_eu27.csv
+
+data/copernicus/clc2018_germany_wetlands.*

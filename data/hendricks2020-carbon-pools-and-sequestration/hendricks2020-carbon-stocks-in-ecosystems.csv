@@ -1,0 +1,10 @@
+Ecosystem;n;mean;median;min;max
+Agro;24;107.7;99;7;266.7
+Coastal;1;48;48;48;48
+Forest;111;133;115.5;5;500
+Natural grassland;33;61.3;5;0.5;438
+Heathland;23;110.3;88;2;548.6
+Shrub;14;33.5;12;6.9;190.1
+Sparsely vegetated;3;69.7;24;20.6;164.5
+Tundra;12;101.2;23.2;1.5;711
+Wetland;72;261.8;247.2;0.9;827.1
