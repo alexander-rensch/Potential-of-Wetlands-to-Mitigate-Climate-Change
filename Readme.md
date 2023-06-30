@@ -18,6 +18,8 @@ The notebook has been tested under Python 3.10.11 installed in a [Conda](https:/
 
 For the data, the notebook assumes that all datasets are stored in the `data` subfolder. See the `Readme.md` there for further details.
 
+The results containing the visual story with images are stored in the `results` subfolder.
+
 ## Data Sources and References
 
 This project is based on a variety of public and open data sources of third parties including statistical and geospatial data. Additionally, latest academic research is taken into account to determine the concrete carbon sink potential of different ecosystems.
